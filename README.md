@@ -1,7 +1,7 @@
 # Devesh Khemani
 
 **Electrical and Electronic Engineering Undergraduate** | Imperial College London  
-[LinkedIn](https://linkedin.com/in/devesh-khemani) • [GitHub](https://github.com/devesh-khemani) • [Download Full CV (PDF)](./gnc-14.pdf)
+[Download Full CV (PDF)](./Devesh_Khemani_CV.pdf)
 
 ---
 
