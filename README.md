@@ -5,7 +5,7 @@
 
 ---
 
-##Education
+## Education
 
 **Imperial College London** (2025 – 2028)  
 *BEng Electrical and Electronic Engineering* | **Predicted: 2:1**  
@@ -16,7 +16,7 @@
 
 ---
 
-##Technical & Research Projects
+## Technical & Research Projects
 
 ### Mixed-Signal Electro-Optical LoS Tracker & Inertially Stabilised Platform
 *STM32F4, Embedded C++, Simulink, KiCad, LTspice, MPU-6050 IMU* (Jun 2026 – Sep 2026)
@@ -41,7 +41,7 @@
 
 ---
 
-##Technical Skills
+## Technical Skills
 
 * **Navigation & Control:** Sensor Fusion (Complementary / Kalman Filtering), PID Control, IMU Interfacing, Closed-Loop Stabilisation
 * **Hardware & Embedded:** Embedded C/C++ (STM32F4, ARM Cortex-M0/M4), Transimpedance Amplifiers, Sallen-Key Filters, Mixed-Signal PCB Layout (KiCad 7), Hardware Timers, ADC Sampling, PWM
